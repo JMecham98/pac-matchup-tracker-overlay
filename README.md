@@ -46,6 +46,7 @@ The overlay helps you anticipate future fights, plan positioning, and keep track
 2. Create a **new script**
 3. Paste the contents of `pac-tracker.js`
 4. Save
+5. Go to your browser extensions and make sure that you allow user scripts for Tampermonkey/Violentmonkey and activate developer mode.
 
 ---
 
