@@ -200,7 +200,7 @@
       border: 4px solid #000;
       font-family: Jost, system-ui, sans-serif;
       font-size: 13px;
-      z-index: 99999;
+      z-index: 1000;
       min-width: 200px;
       box-shadow: 0 3px 5px rgba(0,0,0,.35);
       cursor: grab;
